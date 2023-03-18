@@ -18,14 +18,14 @@ class CPU {
     }
 }
 class Memory {
-    public void load(long position, byte[] data) {
+    public void load(long position, int[] data) {
         System.out.println("load position = " + position + ", data = " + data);
     }
 }
 class HardDrive {
-    public byte[] read(long lba, int size) {
+    public int[] read(long lba, int size) {
         System.out.println("read lba = " + lba + ", size = " + size);
-        return new byte[size];
+        return new int[size];
     }
 }
 

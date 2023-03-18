@@ -7,7 +7,6 @@ public class Main {
         concreteMediator.addComputerList(new ConcreteComputer(concreteMediator));
         ConcreteComputer concreteComputer=new ConcreteComputer(concreteMediator);
         concreteMediator.addComputerList(concreteComputer);
-        concreteComputer.changeStatus();
-
+        concreteMediator.requestAll(concreteComputer);
     }
 }

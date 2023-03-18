@@ -10,7 +10,8 @@ public class StudentController {
     }
 
     public void updateView() {
-        view.displayStudentDetails(model.getName(), model.getAge());
+        view.displayStudentDetails
+                (model.getName(), model.getAge());
     }
 
     public void setName(String name) {

@@ -13,12 +13,12 @@ public class ArrayContainer implements Container{
      private class ArrayIterator implements Iterator{
          @Override
         public boolean hasNext() {
-            return (index<array.length)?true:false;
+            return index < array.length;
         }
 
         @Override
         public Object next() {
-            if(hasNext()==true){
+            if(hasNext()){
                 return array[index++];
             }
                 return null;

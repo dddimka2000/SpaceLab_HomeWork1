@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Drinks {
-    List<Drink> drinks=new ArrayList();
+    private List<Drink> drinks=new ArrayList();
 
     public void addDrinks(Drink drink) {
         this.drinks.add(drink);

@@ -6,6 +6,8 @@ public class ChainOfResponsibility {
         DataBase dataBase=new DataBase();
         messagePrinter.setNextMessagePrinter(dataBase);
         dataBase.setNextMessagePrinter(new FilePrinter());
+
+
         messagePrinter.print("hello");
     }
 }

@@ -11,7 +11,5 @@ public class Main {
         cafe.addObserver(client1);
         cafe.addDrinks("Coffee");
         cafe.addDrinks("Green tea");
-
-
     }
 }

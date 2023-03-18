@@ -1,7 +1,7 @@
 package Äç1.Behavioral.Strategy;
 
 public class Person {
-    Activity activity;
+    private Activity activity;
 
     public void setActivity(Activity activity) {
         this.activity = activity;

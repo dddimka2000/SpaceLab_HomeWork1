@@ -1,9 +1,9 @@
-package Äç1.Behavioral.Momento;
+package Äç1.Behavioral.Memento;
 
-public class Momento {
+public class Memento {
     String state;
 
-    public Momento(String state) {
+    public Memento(String state) {
         this.state = state;
     }
     public void setState(String state) {
