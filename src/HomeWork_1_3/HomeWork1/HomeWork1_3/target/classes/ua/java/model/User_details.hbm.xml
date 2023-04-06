@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="org.example.hibernate.user_details.User_details" table="user_details">
+        <id name="User_details_id" column="id"></id>
+        <property name="age" column="age"></property>
+        <property name="car" column="car"></property>
+        <one-to-one name="users_id" cascade="save-update" class="org.example.hibernate.users.Users" property-ref="users_id" />
+    </class>
+
+</hibernate-mapping>
