@@ -4,10 +4,19 @@
     <file url="file://$PROJECT_DIR$/src/HomeWork_1_2/untitled/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/HomeWork_1_2/untitled/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/java/org/example/dao/hibernate/UserHibernateDao.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/java/org/example/hibernate/users" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/java/org/example/hibernate/users/Users_Dao.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/java/org/example/password/pass.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/resources/hibernate.cfg.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/resources/jdbc/hibernate.cfg.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/resources/ua/java.model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/resources/ua/java.model/Product.hbm.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/resources/ua/java.model/ShoppingCart.hbm.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/resources/ua/java.model/User.hbm.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/resources/ua/java.model/UserDetails.hbm.xml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/src/main/resources/ua/java/model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/untitled/src/main/java/org/example/untitled/pom.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/HomeWork_1_3/HomeWork1/HomeWork1_3/untitled/src/main/java/org/example/untitled/target/classes/org/example/Direct_6/Person.class" charset="UTF-8" />
   </component>
 </project>
